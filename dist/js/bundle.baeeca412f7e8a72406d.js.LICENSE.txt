@@ -1,0 +1,72 @@
+/*!
+  * Bootstrap v5.3.7 (https://getbootstrap.com/)
+  * Copyright 2011-2025 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+ * ApexCharts v5.3.4
+ * (c) 2018-2025 ApexCharts
+ */
+
+/*!
+ * GSAP 3.13.0
+ * https://gsap.com
+ *
+ * @license Copyright 2008-2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * jQuery JavaScript Library v3.7.1
+ * https://jquery.com/
+ *
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2023-08-28T13:37Z
+ */
+
+/*!
+* @svgdotjs/svg.resize.js - An extension for svg.js which allows to resize elements which are selected
+* @version 2.0.4
+* https://github.com/svgdotjs/svg.resize.js
+*
+* @copyright [object Object]
+* @license MIT
+*
+* BUILT: Fri Sep 13 2024 12:43:14 GMT+0200 (Central European Summer Time)
+*/
+
+/*!
+* @svgdotjs/svg.select.js - An extension of svg.js which allows to select elements with mouse
+* @version 4.0.1
+* https://github.com/svgdotjs/svg.select.js
+*
+* @copyright Ulrich-Matthias Schäfer
+* @license MIT
+*
+* BUILT: Mon Jul 01 2024 15:04:42 GMT+0200 (Central European Summer Time)
+*/
+
+/*! #__NO_SIDE_EFFECTS__ */
+
+/**
+* @vue/runtime-core v3.5.19
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-dom v3.5.19
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/shared v3.5.19
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
