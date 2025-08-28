@@ -156,18 +156,20 @@
 
         <!-- Social Links -->
         <div class="social-links">
-          <a href="#" class="social-link" title="GitHub">
+          <a href="https://github.com/marcobfenda" target="_blank" class="social-link" title="GitHub">
             <i class="fab fa-github"></i>
           </a>
-          <a href="#" class="social-link" title="LinkedIn">
+          <a href="https://www.linkedin.com/in/marc-obfenda/" target="_blank" class="social-link" title="LinkedIn">
             <i class="fab fa-linkedin"></i>
           </a>
+          <!--
           <a href="#" class="social-link" title="Twitter">
             <i class="fab fa-twitter"></i>
           </a>
           <a href="#" class="social-link" title="Dribbble">
             <i class="fab fa-dribbble"></i>
           </a>
+          -->
         </div>
       </div>
     </div>
